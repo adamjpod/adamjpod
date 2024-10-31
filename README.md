@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Adam Podbielski
 📚 Pursuing Bachelor Degree of Science in Computer Science at DePaul University
 
 💻 Currently Learning C
